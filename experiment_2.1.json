@@ -1,0 +1,1018 @@
+[
+    {
+        "event_filename": "ev0000593283.h5",
+        "station": "AIRH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0000593283.h5",
+        "station": "AKIH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0000593283.h5",
+        "station": "AKNH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0000593283.h5",
+        "station": "ASKH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0000593283.h5",
+        "station": "BZNH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0000593283.h5",
+        "station": "CZEH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0000593283.h5",
+        "station": "FJIH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0000593283.h5",
+        "station": "GENH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0000593283.h5",
+        "station": "GKSH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0000593283.h5",
+        "station": "HKSH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0000593283.h5",
+        "station": "HRDH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0000593283.h5",
+        "station": "HSFH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0000593283.h5",
+        "station": "HYGH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0000593283.h5",
+        "station": "HYOH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0000593283.h5",
+        "station": "IMRH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0000593283.h5",
+        "station": "IZMH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0000593283.h5",
+        "station": "KAHH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0000593283.h5",
+        "station": "KDIH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0000593283.h5",
+        "station": "KHKH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0000593283.h5",
+        "station": "KIGH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0000593283.h5",
+        "station": "KIWH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0000593283.h5",
+        "station": "KKCH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0000593283.h5",
+        "station": "KKEH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0000593283.h5",
+        "station": "KKIH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0000593283.h5",
+        "station": "KKYH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0000593283.h5",
+        "station": "KORH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0000593283.h5",
+        "station": "KTMH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0000593283.h5",
+        "station": "KWMH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0000593283.h5",
+        "station": "KYAH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0000593283.h5",
+        "station": "MIEH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0000593283.h5",
+        "station": "MISH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0000593283.h5",
+        "station": "MJNH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0000593283.h5",
+        "station": "MJSH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0000593283.h5",
+        "station": "MMTH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0000593283.h5",
+        "station": "MRTH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0000593283.h5",
+        "station": "MSIH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0000593283.h5",
+        "station": "MSMH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0000593283.h5",
+        "station": "MYJH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0000593283.h5",
+        "station": "NANH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0000593283.h5",
+        "station": "NCNH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0000593283.h5",
+        "station": "NGSH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0000593283.h5",
+        "station": "NMNH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0000593283.h5",
+        "station": "NOBH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0000593283.h5",
+        "station": "NRAH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0000593283.h5",
+        "station": "NSMH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0000593283.h5",
+        "station": "NTHH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0000593283.h5",
+        "station": "OGNH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0000593283.h5",
+        "station": "OSUH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0000593283.h5",
+        "station": "SBAH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0000593283.h5",
+        "station": "SBNH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0000593283.h5",
+        "station": "SBSH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0000593283.h5",
+        "station": "SDWH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0000593283.h5",
+        "station": "SENH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0000593283.h5",
+        "station": "SGWH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0000593283.h5",
+        "station": "SIKH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0000593283.h5",
+        "station": "SNIH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0000593283.h5",
+        "station": "SNWH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0000593283.h5",
+        "station": "SRIH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0000593283.h5",
+        "station": "SUKH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0000593283.h5",
+        "station": "TAKH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0000593283.h5",
+        "station": "TARH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0000593283.h5",
+        "station": "TGOH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0000593283.h5",
+        "station": "TKKH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0000593283.h5",
+        "station": "TMNH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0000593283.h5",
+        "station": "TYNH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0000593283.h5",
+        "station": "UBEH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0000593283.h5",
+        "station": "UKHH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0000593283.h5",
+        "station": "UMEH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0000593283.h5",
+        "station": "UMIH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0000593283.h5",
+        "station": "UMWH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0000593283.h5",
+        "station": "UWEH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0000593283.h5",
+        "station": "WKMH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0000593283.h5",
+        "station": "YABH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0000593283.h5",
+        "station": "YGNH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0000593283.h5",
+        "station": "YMGH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0001903830.h5",
+        "station": "CHKH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0001903830.h5",
+        "station": "FGTH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0001903830.h5",
+        "station": "FKSH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0001903830.h5",
+        "station": "FSWH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0001903830.h5",
+        "station": "HMNH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0001903830.h5",
+        "station": "HMSH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0001903830.h5",
+        "station": "HNRH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0001903830.h5",
+        "station": "ICEH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0001903830.h5",
+        "station": "IW2H",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0001903830.h5",
+        "station": "IWNH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0001903830.h5",
+        "station": "IWZH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0001903830.h5",
+        "station": "KAKH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0001903830.h5",
+        "station": "KANH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0001903830.h5",
+        "station": "KASH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0001903830.h5",
+        "station": "KGSH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0001903830.h5",
+        "station": "KKWH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0001903830.h5",
+        "station": "KMAH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0001903830.h5",
+        "station": "KMIH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0001903830.h5",
+        "station": "KMYH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0001903830.h5",
+        "station": "KWSH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0001903830.h5",
+        "station": "MGMH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0001903830.h5",
+        "station": "MKJH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0001903830.h5",
+        "station": "MRUH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0001903830.h5",
+        "station": "MSRH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0001903830.h5",
+        "station": "NKEH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0001903830.h5",
+        "station": "NKWH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0001903830.h5",
+        "station": "NMEH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0001903830.h5",
+        "station": "NRKH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0001903830.h5",
+        "station": "NSEH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0001903830.h5",
+        "station": "NYOH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0001903830.h5",
+        "station": "OGCH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0001903830.h5",
+        "station": "OMRH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0001903830.h5",
+        "station": "ONDH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0001903830.h5",
+        "station": "RIFH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0001903830.h5",
+        "station": "RZTH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0001903830.h5",
+        "station": "SISH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0001903830.h5",
+        "station": "SMTH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0001903830.h5",
+        "station": "SZKH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0001903830.h5",
+        "station": "TAJH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0001903830.h5",
+        "station": "TCKH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0001903830.h5",
+        "station": "TDOH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0001903830.h5",
+        "station": "THTH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0001903830.h5",
+        "station": "TOUH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0001903830.h5",
+        "station": "TOWH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0001903830.h5",
+        "station": "TROH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0001903830.h5",
+        "station": "TZWH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0001903830.h5",
+        "station": "YGTH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0001903830.h5",
+        "station": "YHBH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0001903830.h5",
+        "station": "YMDH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0001903830.h5",
+        "station": "YMMH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0001903830.h5",
+        "station": "YUZH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    },
+    {
+        "event_filename": "ev0001903830.h5",
+        "station": "YWTH",
+        "axis": "Z",
+        "start_hour": 48,
+        "num_hours": 48,
+        "exclude_file": ""
+    }
+]
