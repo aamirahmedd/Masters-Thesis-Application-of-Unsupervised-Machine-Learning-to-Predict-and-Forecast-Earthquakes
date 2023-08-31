@@ -1,4 +1,4 @@
-# hinet analysis by Aamir Ahmed JRZF33
+# Hi-Net Analysis by Aamir Ahmed JRZF33
 [EQ Hi-Net Analysis] - Codebase Disclaimer
 
 **Important: Please Read Before Using or Distributing**
